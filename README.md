@@ -20,7 +20,7 @@ This project analyzes synthetic healthcare data, including patient demographics,
 ## Dataset Information
 
 - **Source**: Kaggle - [Healthcare Dataset](www.kaggle.com/datasets/prasad22/healthcare-dataset)
-- **Records**: 10,000+
+- **Records**: 50,000+
 - **Fields**: Patient ID, Age, Gender, Admission Type, Diagnosis, Treatment, Length of Stay, Discharge Status
 
 ## Key Features in Dashboard
