@@ -74,7 +74,7 @@ This feature offers a foundational metric for healthcare utilization and cost-re
 
 ---
 
-### 🔹 Feature 3: `estimated_treatment_cost`
+### 🔹 Feature 3: `projected_treatment_cost`
 
 Since the dataset lacks a direct `treatment_cost` field, we created a proxy using `billing_amount`:
 
@@ -84,7 +84,7 @@ Since the dataset lacks a direct `treatment_cost` field, we created a proxy usin
 
 ---
 
-### 🔹 Feature 4: `readmitted` Flag
+### 🔹 Feature 4: `readmitted_risk_flag` Flag
 
 To capture patient readmission trends, we engineered a binary `readmitted` variable:
 
