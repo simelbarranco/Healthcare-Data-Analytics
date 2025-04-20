@@ -11,6 +11,19 @@ This project analyzes synthetic healthcare data, including patient demographics,
 - To visualize the insights using Power BI dashboards
 - To deliver actionable recommendations for hospital operations and patient care
 
+## Power BI Visualizations
+A set of interactive visuals built to explore patient intake trends, care durations, and admission insights based on medical and operational data.
+
+### 🔹 Admission Heatmap
+    Shows the volume of patient admissions by weekday and medical condition, highlighting peak intake times across the week.
+
+![Admission Heatmap](./assets/overview.png)
+
+### 🔹 Length of Stay by Medical Condition
+    Displays total hospitalization days per diagnosis, helping identify which conditions require longer care and more resources.
+
+![Length of Stay](./assets/resource.png)
+
 ## Tools Used
 
 - **Python**: Data preprocessing, exploration, and transformation.
@@ -27,5 +40,5 @@ This project analyzes synthetic healthcare data, including patient demographics,
 
 - Patient demographics breakdown
 - Admission types and diagnosis trends
-- Treatment outcomes and discharge summaries
-- Length of stay analysis by condition and patient type
+- Treatment outcomes and discharge summaries (pending...)
+- Length of stay analysis by condition and patient type (pending...)
